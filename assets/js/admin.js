@@ -1,1 +1,0 @@
-// Admin panel Firestore logic
